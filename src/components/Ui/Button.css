@@ -1,0 +1,15 @@
+.button {
+    border-radius: 10px;
+    border: none;
+    width: 10rem;
+
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(82, 30, 131);
+    color: wheat;
+}
+
+.button:hover {
+    color: rgb(82, 30, 131);
+    background-color: wheat;
+}
